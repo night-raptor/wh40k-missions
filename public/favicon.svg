@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+  <rect width="40" height="40" fill="#0e0e12"/>
+  <polygon points="20,2 32,6 38,18 38,22 32,34 20,38 8,34 2,22 2,18 8,6"
+    fill="#1a1814" stroke="#c8a840" stroke-width="1.5"/>
+  <circle cx="20" cy="20" r="12" fill="none" stroke="#3a3020" stroke-width="0.8"/>
+  <line x1="20" y1="9" x2="20" y2="13" stroke="#c8a840" stroke-width="1.2"/>
+  <line x1="20" y1="27" x2="20" y2="31" stroke="#c8a840" stroke-width="1.2"/>
+  <line x1="9" y1="20" x2="13" y2="20" stroke="#c8a840" stroke-width="1.2"/>
+  <line x1="27" y1="20" x2="31" y2="20" stroke="#c8a840" stroke-width="1.2"/>
+  <circle cx="20" cy="20" r="6" fill="#2a2010" stroke="#c8a840" stroke-width="1"/>
+  <ellipse cx="20" cy="19" rx="3.5" ry="3" fill="#c8a840"/>
+  <rect x="17.5" y="21" width="5" height="2.5" rx="0.5" fill="#c8a840"/>
+  <rect x="18.2" y="21.8" width="1.2" height="1.2" rx="0.3" fill="#2a2010"/>
+  <rect x="20.6" y="21.8" width="1.2" height="1.2" rx="0.3" fill="#2a2010"/>
+  <circle cx="18.8" cy="18.5" r="1" fill="#2a2010"/>
+  <circle cx="21.2" cy="18.5" r="1" fill="#2a2010"/>
+</svg>
